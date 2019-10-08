@@ -1,0 +1,11 @@
+    1  whoami
+    2  whoaim
+    3  whoami
+    4  echo "Hello Word"
+    5  date
+    6  cal
+    7  man cal
+    8  cal -3
+    9  history
+   10  clear
+   11  history > lab1.txt
