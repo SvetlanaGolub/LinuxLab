@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 echo -e "\nGood morning!\n"
 date +"%H:%M"
 echo -e
